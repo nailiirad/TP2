@@ -1,0 +1,7 @@
+# Exercice Point:
+
+Dans cet exercice, nous avons créé une classe appelée "Point" qui représente un point dans un espace bidimensionnel. La classe possède des attributs pour les coordonnées x et y du point, ainsi qu'un attribut statique pour compter le nombre total de points créés. La classe comprend des méthodes pour initialiser les coordonnées du point, les déplacer, les afficher, vérifier si le point est à l'origine (0,0), vérifier l'égalité avec un autre point, et calculer la symétrie du point par rapport à l'origine. Dans la classe de test, nous avons créé deux objets de type "Point", effectué diverses opérations sur eux, et affiché les résultats.
+
+# Exercice Laboratoire:
+
+Dans cet exercice, nous avons construit une structure de données pour représenter un laboratoire de recherche. Le laboratoire est composé de plusieurs éléments : des adresses, des chercheurs, des bureaux, et un laboratoire lui-même. Nous avons créé des classes pour chacun de ces éléments, avec des méthodes pour afficher leurs détails et pour convertir leurs informations en chaînes de caractères. La classe "Laboratoire" coordonne les autres classes et permet de créer une structure hiérarchique pour représenter un laboratoire de recherche, avec ses chercheurs, ses bureaux, son adresse et d'autres informations pertinentes. Dans la classe de test, nous avons créé des instances de ces objets, attribué des valeurs à leurs attributs, et montré comment ils peuvent être utilisés pour modéliser un laboratoire de recherche de manière structurée.
